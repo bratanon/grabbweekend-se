@@ -1,0 +1,13 @@
+{
+  "name": "grabbweekend",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-csso": "^2.0.0",
+    "gulp-less": "^3.1.0",
+    "gulp-plumber": "^1.1.0"
+  }
+}
