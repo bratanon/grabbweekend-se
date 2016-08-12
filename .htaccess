@@ -3,7 +3,7 @@
 #
 
 # Protect files and directories from prying eyes.
-<FilesMatch "\.(json|less)$|^gulpfile|\.mp4">
+<FilesMatch "\.(json|less)$|^gulpfile">
   Order allow,deny
 </FilesMatch>
 
